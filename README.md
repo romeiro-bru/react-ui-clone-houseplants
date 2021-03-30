@@ -1,4 +1,4 @@
 
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/5PFOBtYZZekCxG59jh/giphy.gif" width="50%" alt="fern"/>
+<img align="center" src="https://media.giphy.com/media/dU0Qgt8HUzJDPV1AdX/giphy.gif" width="40%" alt="fern"/>
 </p>
